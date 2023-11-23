@@ -1,0 +1,14 @@
+{
+  "name": "quake-log-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "hapi": "^16.6.2",
+    "nodemon": "^3.0.1"
+  }
+}
